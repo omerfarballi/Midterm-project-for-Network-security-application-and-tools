@@ -1,4 +1,14 @@
 site_name: My Docs
 nav:
-- Home: index.md
-- About: about.md
+  - Home: index.md
+  - About: about.md
+
+images:
+  - image: docs/Network_page-0001.jpg
+  - image: docs/Network_page-0002.jpg
+  - image: docs/Network_page-0003.jpg
+  - image: docs/Network_page-0004.jpg
+  - image: docs/Network_page-0005.jpg
+  - image: docs/Network_page-0006.jpg
+  - image: docs/Network_page-0007.jpg
+  - image: docs/Network_page-0008.jpg
